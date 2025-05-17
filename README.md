@@ -1,0 +1,1 @@
+A repo for creating projects to practice python fundamentals
